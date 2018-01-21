@@ -7,7 +7,10 @@ A minimal Dockerfile based on OpenJDK's JRE8 Dockerfile (regular, slim or alpine
 * JRE 8
 * Node.js 8
 * npm 5
-* yarn
+* git
 
 ---
 Built by (c) Tim Brust and contributors. Released under the MIT license.
+
+// changes by Matthew Huebert
+- added git
